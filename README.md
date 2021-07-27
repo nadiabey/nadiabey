@@ -4,7 +4,6 @@
 - 🧠 I also know Java, HTML and CSS.
 - 🌱 I’m currently learning SQL.
 - ❓ I'd like to learn R, PHP and JavaScript.
-- 🐦 Follow me on Twitter: @nadiabey
 
 <!---
 nadiabey/nadiabey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
