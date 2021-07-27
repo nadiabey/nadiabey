@@ -2,8 +2,8 @@
 - 👀 I’m a college student interested in health, journalism and data analysis.
 - 💻 My preferred coding language is Python.
 - 🧠 I also know Java, HTML and CSS.
-- 🌱 I’m currently learning SQL and R.
-- ❓ I'd like to learn PHP and JavaScript.
+- 🌱 I’m currently learning SQL.
+- ❓ I'd like to learn R, PHP and JavaScript.
 - 🐦 Follow me on Twitter: @nadiabey
 
 <!---
