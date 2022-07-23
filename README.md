@@ -1,6 +1,6 @@
 - ✌🏽 Hi, I’m Nadia!
 - 📚  I’m a fourth-year undergraduate majoring in biology and global health with a minor in computational biology.
-- 💻 Lanaguages: Python, R, SQL, HTML
+- 💻 Languages: Python, R, SQL, HTML
 - ❤️  Data journalism and public health
 
 <!---
