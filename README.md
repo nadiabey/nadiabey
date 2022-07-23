@@ -1,9 +1,7 @@
 - ✌🏽 Hi, I’m Nadia!
-- 📚  I’m a third-year undergraduate majoring in biology and global health with a minor in computational biology.
-- 💻 My preferred coding language is Python.
-- 🌱 I’m currently learning SQL.
-- ❓ I'd like to learn R, PHP and JavaScript.
-- 🧠 I'm also interested in data journalism.
+- 📚  I’m a fourth-year undergraduate majoring in biology and global health with a minor in computational biology.
+- 💻 Lanaguages: Python, R, SQL, HTML
+- ❤️  Data journalism and public health
 
 <!---
 nadiabey/nadiabey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
